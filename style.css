@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#wheel {
+  margin-bottom: 20px;
+}
+
+button {
+  margin-bottom: 20px;
+}
+
+#result {
+  font-size: 25px;
+}
